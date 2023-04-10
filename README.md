@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Makeupnotwar
 - 👀 I’m interested in data analysis.
-- 🌱 I’m work with Python, R, SQL, and more.
+- 🌱 I work with Python, R, SQL, Tableau, Power BI, and more.
 - 📫 Reach me at kim-1012@live.com
 
 <!---
